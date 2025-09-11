@@ -1,3 +1,7 @@
+# Managing EC2 Instances on AWS
+
+![](https://github.com/mizhare/aws-santander-2025/blob/main/challenge%201%20-%20managing%20ec2%20instances/images/diagram_s3_ec2.png)
+
 ## Data Architecture Overview
 
 This project was developed as the deliverable for the challenge **"Managing EC2 Instances on AWS"**.  
