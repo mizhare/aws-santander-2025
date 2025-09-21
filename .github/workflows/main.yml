@@ -20,7 +20,7 @@ jobs:
           rm -rf .git
           rm -rf .github
 
-      - name: Sincronizar arquivos com o S3
+      - name: Sync S3 files
         uses: jakejarvis/s3-sync-action@v0.5.1
         with:
           args: --delete --exclude ".git/*" --exclude ".github/*"
